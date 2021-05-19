@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Room>
+    <RoomKey>1</RoomKey>
+    <RoomName>MATH</RoomName>
+    <RoomCapacity>22</RoomCapacity>
+    <OccupiedBy>
+      <int>8</int>
+      <int>11</int>
+    </OccupiedBy>
+  </Room>
+  <Room>
+    <RoomKey>2</RoomKey>
+    <RoomName>CHEMISTRY</RoomName>
+    <RoomCapacity>14</RoomCapacity>
+    <OccupiedBy>
+      <int>7</int>
+      <int>1</int>
+      <int>14</int>
+    </OccupiedBy>
+  </Room>
+  <Room>
+    <RoomKey>3</RoomKey>
+    <RoomName>HISTORY</RoomName>
+    <RoomCapacity>28</RoomCapacity>
+    <OccupiedBy />
+  </Room>
+  <Room>
+    <RoomKey>4</RoomKey>
+    <RoomName>FICTION</RoomName>
+    <RoomCapacity>30</RoomCapacity>
+    <OccupiedBy>
+      <int>15</int>
+    </OccupiedBy>
+  </Room>
+</ArrayOfRoom>

@@ -1,0 +1,14 @@
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+D:\paul_zyr_docs\vs2019repos\01_SHARP_STEP\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+D:\01_IT_all\00_TO_SHOW\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

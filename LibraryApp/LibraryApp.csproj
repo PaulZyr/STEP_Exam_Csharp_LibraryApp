@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A07F68A-A1EC-4A4D-8553-C4674A3A194B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>LibraryApp</RootNamespace>
+    <AssemblyName>LibraryApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookSpace\Book.cs" />
+    <Compile Include="BookSpace\BookChanger.cs" />
+    <Compile Include="BookSpace\BookCreator.cs" />
+    <Compile Include="Collection\LibraryCollectionExtention.cs" />
+    <Compile Include="Collection\LibraryCollection.cs" />
+    <Compile Include="InteractorSpace\Interactor.cs" />
+    <Compile Include="InteractorSpace\InteractorConsole.cs" />
+    <Compile Include="InvokerSpace\Invoker.cs" />
+    <Compile Include="InvokerSpace\InvokerAddNewBook.cs" />
+    <Compile Include="InvokerSpace\InvokerAddNewReader.cs" />
+    <Compile Include="InvokerSpace\InvokerAddNewRoom.cs" />
+    <Compile Include="InvokerSpace\InvokerChangeBook.cs" />
+    <Compile Include="InvokerSpace\InvokerChangeReader.cs" />
+    <Compile Include="InvokerSpace\InvokerChangeRoom.cs" />
+    <Compile Include="InvokerSpace\InvokerChangeToUPPER.cs" />
+    <Compile Include="ManagerSpace\ManageReader.cs" />
+    <Compile Include="PrintSpace\PrintReaderFullInfo.cs" />
+    <Compile Include="RoomSpace\Room.cs" />
+    <Compile Include="RoomSpace\RoomChanger.cs" />
+    <Compile Include="RoomSpace\RoomCreator.cs" />
+    <Compile Include="ManagerSpace\Manager.cs" />
+    <Compile Include="ManagerSpace\ManagerCheckExtention.cs" />
+    <Compile Include="ManagerSpace\ManagerExtention.cs" />
+    <Compile Include="ManagerSpace\ManagerCreator.cs" />
+    <Compile Include="ManagerSpace\ManageRoom.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReaderSpace\Reader.cs" />
+    <Compile Include="ReaderSpace\ReaderChanger.cs" />
+    <Compile Include="ReaderSpace\ReaderCreator.cs" />
+    <Compile Include="PrintSpace\PrintOneRoomFullInfo.cs" />
+    <Compile Include="PrintSpace\PrintBooksForOneRoom.cs" />
+    <Compile Include="PrintSpace\PrintReadersForOneRoom.cs" />
+    <Compile Include="SortSpace\ISortLibrary.cs" />
+    <Compile Include="SortSpace\SortBooksByAuthor.cs" />
+    <Compile Include="SortSpace\SortReadersByLastName.cs" />
+    <Compile Include="SearchSpace\SearchReaderByKey.cs" />
+    <Compile Include="SearchSpace\SearchBooksByOneAuthor.cs" />
+    <Compile Include="SearchSpace\SearchBooksByRating.cs" />
+    <Compile Include="SortSpace\SortBooksByRoom.cs" />
+    <Compile Include="SearchSpace\SearchBooksOnHand.cs" />
+    <Compile Include="SearchSpace\SearchLibrary.cs" />
+    <Compile Include="SearchSpace\SearchReaderBylastName.cs" />
+    <Compile Include="SortSpace\SortReadersByKey.cs" />
+    <Compile Include="SortSpace\SortReadersByRoom.cs" />
+    <Compile Include="SearchSpace\SingleBookOnHand.cs" />
+    <Compile Include="SearchSpace\SearchRoomsByFreeSeats.cs" />
+    <Compile Include="SearchSpace\SearchRoomsByOccupation.cs" />
+    <Compile Include="PrintSpace\PrintAllRoomsFullInfo.cs" />
+    <Compile Include="XMLFiles\CheckXMLFileValid.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GradingRules.txt" />
+    <Content Include="Task.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

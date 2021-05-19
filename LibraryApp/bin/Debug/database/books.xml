@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookKey>1</BookKey>
+    <RoomKey>1</RoomKey>
+    <BookAuthor>CISINSKI</BookAuthor>
+    <BookName>HIGHER CATEGORIES AND HOMOTOPICAL ALGEBRA</BookName>
+    <IssueYear>2019</IssueYear>
+    <Quantity>3</Quantity>
+    <Rating>6</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>2</BookKey>
+    <RoomKey>1</RoomKey>
+    <BookAuthor>PETERSON</BookAuthor>
+    <BookName>FORMAL GEOMETRY AND BORDISM OPERATIONS</BookName>
+    <IssueYear>2018</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>4</Rating>
+    <OnHandReaderKeys>
+      <int>11</int>
+    </OnHandReaderKeys>
+  </Book>
+  <Book>
+    <BookKey>3</BookKey>
+    <RoomKey>1</RoomKey>
+    <BookAuthor>CECHERINI</BookAuthor>
+    <BookName>DISCRETE HARMONIC ANALYSIS</BookName>
+    <IssueYear>2018</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>8</Rating>
+    <OnHandReaderKeys>
+      <int>11</int>
+    </OnHandReaderKeys>
+  </Book>
+  <Book>
+    <BookKey>4</BookKey>
+    <RoomKey>1</RoomKey>
+    <BookAuthor>NAVARRO</BookAuthor>
+    <BookName>CHARACTER THEORY</BookName>
+    <IssueYear>2018</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>1</Rating>
+    <OnHandReaderKeys>
+      <int>8</int>
+    </OnHandReaderKeys>
+  </Book>
+  <Book>
+    <BookKey>5</BookKey>
+    <RoomKey>1</RoomKey>
+    <BookAuthor>GOUGH</BookAuthor>
+    <BookName>QUANTUM FIELDS AND PROCESSES</BookName>
+    <IssueYear>2018</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>5</Rating>
+    <OnHandReaderKeys>
+      <int>8</int>
+    </OnHandReaderKeys>
+  </Book>
+  <Book>
+    <BookKey>6</BookKey>
+    <RoomKey>2</RoomKey>
+    <BookAuthor>BERRY</BookAuthor>
+    <BookName>QUALITATIVE INORGANIC ANALYSIS</BookName>
+    <IssueYear>2016</IssueYear>
+    <Quantity>3</Quantity>
+    <Rating>2</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>7</BookKey>
+    <RoomKey>2</RoomKey>
+    <BookAuthor>FRASER</BookAuthor>
+    <BookName>MOLECULAR RAYS</BookName>
+    <IssueYear>2015</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>4</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>8</BookKey>
+    <RoomKey>2</RoomKey>
+    <BookAuthor>WHELAN</BookAuthor>
+    <BookName>FRAGMENTATION PROCESSES</BookName>
+    <IssueYear>2012</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>8</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>9</BookKey>
+    <RoomKey>2</RoomKey>
+    <BookAuthor>LEVINE</BookAuthor>
+    <BookName>MOLECULAR REACTION DYNAMICS</BookName>
+    <IssueYear>2016</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>5</Rating>
+    <OnHandReaderKeys>
+      <int>14</int>
+    </OnHandReaderKeys>
+  </Book>
+  <Book>
+    <BookKey>10</BookKey>
+    <RoomKey>2</RoomKey>
+    <BookAuthor>KORYTA</BookAuthor>
+    <BookName>ION-SELECTIVE ELECTRODES</BookName>
+    <IssueYear>2016</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>4</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>11</BookKey>
+    <RoomKey>3</RoomKey>
+    <BookAuthor>NEIL MURPHY</BookAuthor>
+    <BookName>THE TUDOR OCCUPATION OF BOULOGNE</BookName>
+    <IssueYear>2019</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>3</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>12</BookKey>
+    <RoomKey>3</RoomKey>
+    <BookAuthor>JERZY LUKOWSKI</BookAuthor>
+    <BookName>A CONCISE HISTORY OF POLAND</BookName>
+    <IssueYear>2019</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>0</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>13</BookKey>
+    <RoomKey>3</RoomKey>
+    <BookAuthor>MERRY E. WIESNER-HANKS</BookAuthor>
+    <BookName>WOMEN AND GENDER IN EARLY MODERN EUROPE</BookName>
+    <IssueYear>2019</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>5</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>14</BookKey>
+    <RoomKey>3</RoomKey>
+    <BookAuthor>MICHAEL V. LEGGIERE</BookAuthor>
+    <BookName>NAPOLEON AND THE STRUGGLE FOR GERMANY</BookName>
+    <IssueYear>2018</IssueYear>
+    <Quantity>3</Quantity>
+    <Rating>1</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>15</BookKey>
+    <RoomKey>3</RoomKey>
+    <BookAuthor>JAN HENNINGS</BookAuthor>
+    <BookName>RUSSIA AND COURTLY EUROPE</BookName>
+    <IssueYear>2018</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>2</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>16</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>LOON</BookAuthor>
+    <BookName>ROB MY HEART AND HOPE TO DIE</BookName>
+    <IssueYear>2020</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>3</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>17</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>ORWELL</BookAuthor>
+    <BookName>1984</BookName>
+    <IssueYear>2013</IssueYear>
+    <Quantity>3</Quantity>
+    <Rating>12</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>18</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>AUSTEN</BookAuthor>
+    <BookName>PRIDE AND PREJUDICE</BookName>
+    <IssueYear>2008</IssueYear>
+    <Quantity>3</Quantity>
+    <Rating>5</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>19</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>BRADBURY</BookAuthor>
+    <BookName>FAHRENHEIT 451</BookName>
+    <IssueYear>2013</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>1</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>20</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>FITZGERALD</BookAuthor>
+    <BookName>THE GREAT GATSBY</BookName>
+    <IssueYear>2015</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>5</Rating>
+    <OnHandReaderKeys>
+      <int>15</int>
+    </OnHandReaderKeys>
+  </Book>
+  <Book>
+    <BookKey>21</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>HEMINGWAY</BookAuthor>
+    <BookName>THE OLD MAN AND THE SEA</BookName>
+    <IssueYear>2014</IssueYear>
+    <Quantity>2</Quantity>
+    <Rating>8</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>22</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>LEE</BookAuthor>
+    <BookName>TO KILL A MOCKINGBIRD</BookName>
+    <IssueYear>2006</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>7</Rating>
+    <OnHandReaderKeys />
+  </Book>
+  <Book>
+    <BookKey>23</BookKey>
+    <RoomKey>4</RoomKey>
+    <BookAuthor>KAFKA</BookAuthor>
+    <BookName>THE METAMORPHOSIS</BookName>
+    <IssueYear>1972</IssueYear>
+    <Quantity>1</Quantity>
+    <Rating>15</Rating>
+    <OnHandReaderKeys />
+  </Book>
+</ArrayOfBook>

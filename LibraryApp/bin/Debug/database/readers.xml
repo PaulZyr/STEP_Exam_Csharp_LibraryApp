@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<ArrayOfReader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reader>
+    <ReaderKey>1</ReaderKey>
+    <RoomKey>2</RoomKey>
+    <LastName>DOE</LastName>
+    <FirstName>JOHN</FirstName>
+    <SecondName>L.</SecondName>
+    <Phone>380991234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>2</ReaderKey>
+    <RoomKey>1</RoomKey>
+    <LastName>IGNATIEV</LastName>
+    <FirstName>SERGEY</FirstName>
+    <SecondName>PETROVICH</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>3</ReaderKey>
+    <RoomKey>4</RoomKey>
+    <LastName>ALEKSEEV</LastName>
+    <FirstName>ZAHAR</FirstName>
+    <SecondName>IVANOVICH</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>4</ReaderKey>
+    <RoomKey>3</RoomKey>
+    <LastName>MACNEEL</LastName>
+    <FirstName>JEREMY</FirstName>
+    <SecondName>B.</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>5</ReaderKey>
+    <RoomKey>3</RoomKey>
+    <LastName>KREAMSY</LastName>
+    <FirstName>ROGER</FirstName>
+    <SecondName>D.</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>6</ReaderKey>
+    <RoomKey>3</RoomKey>
+    <LastName>LENSKY</LastName>
+    <FirstName>ELENA</FirstName>
+    <SecondName>MIHAILOVNA</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>7</ReaderKey>
+    <RoomKey>2</RoomKey>
+    <LastName>POTTER</LastName>
+    <FirstName>GARRY</FirstName>
+    <SecondName>ARTUR</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>8</ReaderKey>
+    <RoomKey>1</RoomKey>
+    <LastName>HOTTABYCH</LastName>
+    <FirstName>ABDULA</FirstName>
+    <SecondName>OLDER</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks>
+      <int>5</int>
+      <int>4</int>
+    </OnHandBooks>
+  </Reader>
+  <Reader>
+    <ReaderKey>9</ReaderKey>
+    <RoomKey>2</RoomKey>
+    <LastName>KRAKEN</LastName>
+    <FirstName>GARRY</FirstName>
+    <SecondName>GEORGE</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>10</ReaderKey>
+    <RoomKey>4</RoomKey>
+    <LastName>TELEPOVY</LastName>
+    <FirstName>ALINA</FirstName>
+    <SecondName>MARRY</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>11</ReaderKey>
+    <RoomKey>1</RoomKey>
+    <LastName>POPPINS</LastName>
+    <FirstName>MARRY</FirstName>
+    <SecondName>JUNIOR</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks>
+      <int>2</int>
+      <int>3</int>
+    </OnHandBooks>
+  </Reader>
+  <Reader>
+    <ReaderKey>12</ReaderKey>
+    <RoomKey>4</RoomKey>
+    <LastName>KARKAROV</LastName>
+    <FirstName>GROGORIY</FirstName>
+    <SecondName>OLDER</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>13</ReaderKey>
+    <RoomKey>3</RoomKey>
+    <LastName>MOMZY</LastName>
+    <FirstName>TOM</FirstName>
+    <SecondName>J.</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>14</ReaderKey>
+    <RoomKey>2</RoomKey>
+    <LastName>KORKI</LastName>
+    <FirstName>ALEXANDER</FirstName>
+    <SecondName>NATAN</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks>
+      <int>9</int>
+    </OnHandBooks>
+  </Reader>
+  <Reader>
+    <ReaderKey>15</ReaderKey>
+    <RoomKey>4</RoomKey>
+    <LastName>VINDZOR</LastName>
+    <FirstName>ELIZABETH</FirstName>
+    <SecondName>QUEEN</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks>
+      <int>20</int>
+    </OnHandBooks>
+  </Reader>
+  <Reader>
+    <ReaderKey>16</ReaderKey>
+    <RoomKey>1</RoomKey>
+    <LastName>LISSABON</LastName>
+    <FirstName>KARL</FirstName>
+    <SecondName>DOE</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>17</ReaderKey>
+    <RoomKey>4</RoomKey>
+    <LastName>ROMARY</LastName>
+    <FirstName>JECK</FirstName>
+    <SecondName>SMALL</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>18</ReaderKey>
+    <RoomKey>3</RoomKey>
+    <LastName>NIKOLSKY</LastName>
+    <FirstName>ANTON</FirstName>
+    <SecondName>NYKOLAEVICH</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>19</ReaderKey>
+    <RoomKey>2</RoomKey>
+    <LastName>SOYEER</LastName>
+    <FirstName>TOM</FirstName>
+    <SecondName>N.</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+  <Reader>
+    <ReaderKey>20</ReaderKey>
+    <RoomKey>1</RoomKey>
+    <LastName>FINN</LastName>
+    <FirstName>GECKY</FirstName>
+    <SecondName>N.</SecondName>
+    <Phone>380701234567</Phone>
+    <OnHandBooks />
+  </Reader>
+</ArrayOfReader>
